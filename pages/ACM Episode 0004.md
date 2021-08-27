@@ -1,0 +1,20 @@
+- Topics
+	- Where to Start
+		- 4 years ago
+			- Red flags
+				- They had a framework, quite a rigid framework
+					- even had a sprint calendar
+				- Was COTS software
+				- Component teams
+				- Sprints were three weeks
+				- Not all teams were collocated
+				- Teams were remote from business
+				- Agile Word was forbidden
+			- Positive signs
+				- Very commited Lead
+				- Clear target
+			- But when I joined I found out
+				- Change Negotiation was nothing short of amazing
+				- Even though it was a framework, they had been doing it with success for years in Holland
+				- Amazing company culture
+				- Great solution ot the PO problem for component teams

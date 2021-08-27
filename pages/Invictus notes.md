@@ -1,0 +1,14 @@
+- End to end perpective on processes
+- Helping everyone understand where they fit in the overall value chain
+- Process portal [link](https://tele2.sharepoint.com/sites/Tele2-Process-Portal)
+- ![47911-Implementing-an-E2E-perspective.png](../assets/47911-Implementing-an-E2E-perspective_1628057688183_0.png){:height 217, :width 356}
+- ![CleanShot 2021-08-04 at 09.18.04.png](../assets/CleanShot_202021-08-04_20at_2009.18.04_1628057913188_0.png)
+- ![50103-P-S.png](../assets/50103-P-S_1628058113614_0.png)
+- ![CleanShot 2021-08-04 at 09.23.08.png](../assets/CleanShot_202021-08-04_20at_2009.23.08_1628058207731_0.png)
+- ![CleanShot 2021-08-04 at 09.23.43.png](../assets/CleanShot_202021-08-04_20at_2009.23.43_1628058234782_0.png)
+- Process framework comes from
+	- b2b
+	- technology
+	- finance
+- Where to find
+	- ![CleanShot 2021-08-04 at 09.24.11.png](../assets/CleanShot_202021-08-04_20at_2009.24.11_1628058293888_0.png)

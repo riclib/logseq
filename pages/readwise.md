@@ -1,0 +1,1 @@
+- Readwise is a kind of clunky but working way of collecting highlights

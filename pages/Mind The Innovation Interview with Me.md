@@ -1,0 +1,6 @@
+source:: https://podcast.mindtheinnovation.com/e/xnyw2krn
+tags:: interview, podcast
+
+- ![](https://content.bcastcdn.com/uploads/vmq7m2vq/4ad8af60-c247-11eb-b403-132b2c8c2bae/4ad8b0e0-c247-11eb-9929-7be57c460e57.jpg)
+- Why is agile important for a learning organization? Agile is about teaching the mindset that we are always questioning what we are doing. Listen to Ricardo Liberato talk about being agile, how agility is the key to innovation, and how failures are a learning journey that feeds and creates a learning and innovative organization. Ricardo also talks about how important it is to be exposed to things that are happening outside the organization, a way to do this is by being part of a community. When you join communities, you are exposed to all levels of diversity and this is where you learn and get inspired. Ricardo Liberato is the Chief Principal Consultant at Solid Reason and also the founder of "agile club' which is a fast-growing agile community - a community of like-minded people focusing on learning and doing. "It's all about being able to think about what you want to do, work on it as a team, reflect on what you did, have psychological safety to bring out the best in everyone that is in your team." Ricardo Liberato
+- #podcast #sannahvinding #lean #agility #interview

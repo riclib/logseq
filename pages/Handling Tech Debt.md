@@ -1,0 +1,4 @@
+- Handling tech debt is like doing the dishes
+  heading:: true
+	- Whenever you procrastinate on doing the dishes – even if it's only a plate, a knife, and a fork – something happens. The dishes start to pile up since there's already something in the sink. If you have a dishwasher there might be a feeling that "the dishwasher must be full or running or clean and I don't want to be the one to handle it". You do this knowing full well that the problem will become more of a hassle with each item that gets added to the pile.
+	  The same can be said for [[Technical debt]]. The longer we ignore or avoid the issues, the harder they'll be to clean up. When you spot something, take a short amount of time and fix it. It'll be much easier to do now when you are in the context. Or at least make a note, preferably with context, and make sure it's fixed straight after the feature has been released.

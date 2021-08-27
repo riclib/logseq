@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="361 96 546 691" width="546" height="691">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="DoubleArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 18 8" markerWidth="18" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 -3 L 8 0 L 0 -3 L 0 3 L 8 0 L 8 3 L 16 0 Z" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18.5\n2021-08-10 07:34:20 +0000</metadata>
+  <g id="Canvas_1" fill-opacity="1" stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="361" y="96" width="546" height="691"/>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <path d="M 540 359 L 700 359 L 668 528 L 572 528 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(556.2 430.896)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="39.008" y="15">Telegraf</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3">
+        <path d="M 362 249.1 L 362 113.9 C 362 104.5712 397.84 97 442 97 C 486.16 97 522 104.5712 522 113.9 L 522 249.1 C 522 258.4288 486.16 266 442 266 C 397.84 266 362 258.4288 362 249.1 M 362 113.9 C 362 123.2288 397.84 130.8 442 130.8 C 486.16 130.8 522 123.2288 522 113.9" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(367 180.726)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="36.328" y="15">Azure db 1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <path d="M 554 249.1 L 554 113.9 C 554 104.5712 589.84 97 634 97 C 678.16 97 714 104.5712 714 113.9 L 714 249.1 C 714 258.4288 678.16 266 634 266 C 589.84 266 554 258.4288 554 249.1 M 554 113.9 C 554 123.2288 589.84 130.8 634 130.8 C 678.16 130.8 714 123.2288 714 113.9" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(559 180.726)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="36.328" y="15">Azure db 2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <path d="M 746 249.1 L 746 113.9 C 746 104.5712 781.84 97 826 97 C 870.16 97 906 104.5712 906 113.9 L 906 249.1 C 906 258.4288 870.16 266 826 266 C 781.84 266 746 258.4288 746 249.1 M 746 113.9 C 746 123.2288 781.84 130.8 826 130.8 C 870.16 130.8 906 123.2288 906 113.9" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(751 180.726)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="32.776" y="15">Azure db …</tspan>
+        </text>
+      </g>
+      <g id="Line_6">
+        <line x1="562.5916" y1="359" x2="506.4088" y2="276.30397" marker-end="url(#DoubleArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Line_7">
+        <line x1="624.5153" y1="359" x2="628.531" y2="283.848" marker-end="url(#DoubleArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Line_8">
+        <line x1="686.4389" y1="359" x2="753.3139" y2="273.94544" marker-end="url(#DoubleArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_9">
+        <path d="M 540 769.1 L 540 633.9 C 540 624.5712 575.84 617 620 617 C 664.16 617 700 624.5712 700 633.9 L 700 769.1 C 700 778.4288 664.16 786 620 786 C 575.84 786 540 778.4288 540 769.1 M 540 633.9 C 540 643.2288 575.84 650.8 620 650.8 C 664.16 650.8 700 643.2288 700 633.9" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(545 700.726)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="31.872" y="15">Prometheus</tspan>
+        </text>
+      </g>
+      <g id="Line_10">
+        <line x1="620" y1="617" x2="620" y2="545.9" marker-end="url(#DoubleArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

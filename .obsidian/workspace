@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "62286f8ab6c480e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc3ade102801d31d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "journals/2021_08_07.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a427c627a39cce9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "056d969b14bddcc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3df6fb03983a20fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f7ce954077de9231",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dfb5d4714b180ece",
+    "type": "split",
+    "children": [
+      {
+        "id": "e857bdf50dbced7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b02c31796c11b78f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "journals/2021_08_07.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bc3ade102801d31d",
+  "lastOpenFiles": [
+    "journals/2021_08_07.md",
+    "journals/2021_08_06.md",
+    "pages/Absent Alerting for Jobs.md",
+    "journals/2021_08_04.md",
+    "journals/2021_08_03.md",
+    "pages/Untitled.md"
+  ]
+}
